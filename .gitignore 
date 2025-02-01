@@ -1,0 +1,31 @@
+# Node.js and Next.js files
+node_modules/
+.next/
+out/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Python files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor and OS-specific files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+
+# Dependency locks (optional)
+package-lock.json
+yarn.lock
